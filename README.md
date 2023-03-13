@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Hazeem Hassan a future Data Scientist @hheyzahm
-- 👀 I’m interested in ndroid development in java and as-well-as in kotlin.
+- 👀 I’m interested in android development in java and as-well-as in kotlin.
+- 👨‍💻 I'm A java developer using a spring and spring boot frameword.
 - 🌱 I’m currently learning new data science technology like Machine-Learning , Deep Learning and Neural Networks and Blockchain Technology and its applications.
 - 📫 How to reach me hhazeemhassan@gmail.com hazeem.hassan@hotmail.com
 
